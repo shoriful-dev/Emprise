@@ -6,7 +6,7 @@ import Beach from "../assets/beach.png";
 import Bungee from "../assets/bungee.png";
 import City from "../assets/city.png";
 import Backpack from "../assets/Backpack.png";
-import Jungle from "../assets/jungle.png";
+import Jungle from "../assets/Jungle.png";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import CategoryNextArrow from "../components/CategoryNextArrow";
