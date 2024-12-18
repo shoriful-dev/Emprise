@@ -3,7 +3,7 @@ import Container from "../components/Container";
 import Text from "../components/Text";
 import Flex from "../components/Flex";
 import Image from "../components/Image";
-import Icon from "../assets/icon.png";
+import Icon from "../assets/cartIcon.png";
 import "slick-carousel/slick/slick.css";
 import Slider from "react-slick";
 import BannerNextArrow from "../components/BannerNextArrow";
