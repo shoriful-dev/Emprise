@@ -5,7 +5,7 @@ import CategoryCart from "../components/CategoryCart";
 import Beach from "../assets/beach.png";
 import Bungee from "../assets/bungee.png";
 import City from "../assets/city.png";
-import BackpackImage from "../assets/backpack.png";
+import Backpack from "../assets/Backpack.png";
 import Jungle from "../assets/jungle.png";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -77,7 +77,7 @@ const Category = () => {
             <div className="w-[375px] h-[295px] border px-8 py-5 shadow-xl">
               <CategoryCart
                 badgeText={"4.8"}
-                imgSrc={BackpackImage}
+                imgSrc={Backpack}
                 text1={"Hiking trips"}
                 text2={"196 Activities"}
               />
