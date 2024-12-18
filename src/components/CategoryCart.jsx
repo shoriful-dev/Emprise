@@ -1,7 +1,7 @@
 import React from 'react'
-import Badge from './Badge'
-import Image from './Image'
-import Text from './Text'
+import Badge from '../components/Badge'
+import Image from '../components/Image'
+import Text from "../components/Text"
 
 const CategoryCart = ({badgeText, imgSrc, text1, text2}) => {
   return (

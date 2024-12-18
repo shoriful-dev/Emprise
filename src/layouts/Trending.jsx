@@ -3,7 +3,7 @@ import Container from '../components/Container'
 import Text from '../components/Text'
 import TrendingCart from '../components/TrendingCart'
 import Mountain from '../assets/mountain.png'
-import RatingImage from '../assets/rating.png'
+import RatingImage from '../assets/Rating.png';
 import Train from '../assets/train.png'
 import Forest from '../assets/forest.png'
 import Cultural from '../assets/cultural.png'
