@@ -1,11 +1,11 @@
 import React from 'react'
-import Container from './Container'
-import Image from './Image'
-import Text from './Text'
+import Container from '../components/Container'
+import Image from '../components/Image'
+import Text from '../components/Text'
 import { FaRegHeart } from "react-icons/fa";
 import { LuClock } from 'react-icons/lu';
 import { MdDone } from 'react-icons/md';
-import Badge from './Badge';
+import Badge from '../components/Badge';
 
 
 const TrendingCart = ({imgSrc, badgeText, text1, text2, text3, text4, imgSrc2, text5, text6, text7, text8}) => {
