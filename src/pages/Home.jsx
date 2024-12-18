@@ -5,7 +5,7 @@ import Category from '../layouts/Category'
 import Trending from '../layouts/Trending'
 import Destination from '../layouts/Destination'
 import BestSeller from '../layouts/BestSeller'
-import TourGuides from '../layouts/TourGuides'
+// import TourGuides from '../layouts/TourGuides'
 import Adds from '../layouts/Adds'
 import SubsCribe from '../layouts/SubsCribe'
 import Partnars from '../layouts/Partnars'
@@ -20,7 +20,7 @@ const Home = () => {
     <Trending />
     <Destination />
     <BestSeller />
-    <TourGuides />
+    {/* <TourGuides /> */}
     <Adds />
     <SubsCribe />
     <Partnars />
