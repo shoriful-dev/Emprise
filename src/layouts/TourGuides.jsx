@@ -1,10 +1,10 @@
 import React from 'react'
 import Container from '../components/Container'
 import Text from '../components/Text'
-import TourGuidesCart from '../components/tourGuidesCart'
+import TourGuidesCart from '../components/TourGuidesCart'
 import TourGuides1 from '../assets/tourGuides1.png'
 import TourGuides2 from '../assets/tourGuides2.png'
-import TourGuides3 from '../assets/TourGuides3.png'
+import TourGuides3 from '../assets/tourGuides3.png'
 import "slick-carousel/slick/slick.css";
 import Slider from "react-slick";
 import TourGuideNextArrow from '../components/TourGuideNextArrow'
