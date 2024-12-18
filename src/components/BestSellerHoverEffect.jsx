@@ -1,9 +1,9 @@
 import React from "react";
-import Container from "./Container";
-import Image from "./Image";
-import Badge from "./Badge";
-import Text from "./Text";
-import Button from "./Button";
+import Container from "../components/Container";
+import Image from "../components/Image";
+import Badge from "../components/Badge";
+import Text from "../components/Text";
+import Button from "../components/Button";
 import { IoShareSocial } from "react-icons/io5";
 
 const BestSellerHoverEffect = ({ imgSrc, badgeText }) => {

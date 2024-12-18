@@ -1,8 +1,7 @@
 import React from 'react'
-import Container from './Container'
-import Image from './Image'
-import Text from './Text'
-import Badge from './Badge'
+import Container from '../components/Container'
+import Image from '../components/Image'
+import Text from '../components/Text'
 import { FaSquareFacebook, FaSquareInstagram, FaTwitter } from "react-icons/fa6";
 
 
