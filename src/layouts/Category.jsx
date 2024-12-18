@@ -1,12 +1,11 @@
 import React from "react";
 import Container from "../components/Container";
-import Flex from "../components/Flex";
 import Text from "../components/Text";
 import CategoryCart from "../components/CategoryCart";
 import Beach from "../assets/beach.png";
 import Bungee from "../assets/bungee.png";
 import City from "../assets/city.png";
-import BackpackImage from "../assets/backpack.png"
+import BackpackImage from "../assets/backpack.png";
 import Jungle from "../assets/jungle.png";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
